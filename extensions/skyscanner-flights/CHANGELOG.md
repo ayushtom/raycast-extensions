@@ -1,6 +1,6 @@
 # skyscanner Changelog
 
-## [Update with better UX, readme] - {PR_MERGE_DATE}
+## [Update with better UX, readme] - 2025-11-07
 
 We optimistically close the raycast window to make the experience more snappy. Update readme to remove video link
 
