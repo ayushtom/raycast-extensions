@@ -8,3 +8,7 @@ We had a shabby README.md catered to developers so we make it more user friendly
 We also make our command more easily searchable.
 Add better scoring system for substring matches.
 Better Error Tracking
+
+## [Update with better UX, readme] - 2025-11-05
+
+We optimistically close the raycast window to make the experience more snappy. Update readme to remove video link
